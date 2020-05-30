@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ETC STUDY MATERIAL</string>
+    <string name="math_">Math</string>
+    <string name="todo">TODO</string>
+    <string name="subject_here">Subject Here</string>
+    <string name="subject_name">Subject Name</string>
+    <string name="textview01">TextView</string>
+    <string name="year_wise_question_papers_will_be_uploaded_soon">Year wise question papers will be uploaded soon...</string>
+    <string name="textview">TextView</string>
+    <string name="this_app_is_made_for_etc_branch_of_csvtu_students_this_app_contain_syllabus_book_of_current_semester_and_year_wise_question_papers_for_the_practice_of_students_for_semester_examination">This app is made for ETC branch of CSVTU students.This app contain syllabus book of current semester and year wise question papers for the practice of students for semester examination.</string>
+    <string name="app_creator_starboy">App Creator: Starboy</string>
+</resources>
