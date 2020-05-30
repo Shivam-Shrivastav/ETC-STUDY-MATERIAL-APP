@@ -14,4 +14,3 @@ This repo contains source code of a study material of ETC branch (2nd sem).
  ![sas](https://raw.githubusercontent.com/starboy2102/ETC-STUDY-MATERIAL-APP/master/bce.jpeg)
 ![safs](https://raw.githubusercontent.com/starboy2102/ETC-STUDY-MATERIAL-APP/master/mat.jpeg)
 
-![cx](https://image.shutterstock.com/image-photo/bright-spring-view-cameo-island-260nw-1048185397.jpg)
